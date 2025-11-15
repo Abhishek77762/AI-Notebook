@@ -1,0 +1,9 @@
+# Python / FastAPI
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/.venv/
+backend/venv/
+backend/.mypy_cache/
+backend/.pytest_cache/
+.idea/

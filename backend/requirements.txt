@@ -1,0 +1,32 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+SQLAlchemy
+psycopg2-binary
+
+pydantic
+pydantic-settings
+
+google-generativeai
+
+# Document handling
+pypdf
+python-docx
+chardet
+
+# TTS & Media
+pyttsx3
+moviepy
+
+# Exports
+reportlab
+
+# Auth & Security
+python-jose[cryptography]
+passlib[bcrypt]
+google-auth
+
+# RAG
+chromadb
+sentence-transformers
